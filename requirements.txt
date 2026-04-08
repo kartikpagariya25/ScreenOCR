@@ -1,0 +1,7 @@
+mss>=10.1.0
+numpy>=1.26.0
+opencv-python>=4.10.0
+Pillow>=11.2.1
+pynput>=1.7.7
+pyperclip>=1.9.0
+pytesseract>=0.3.13
